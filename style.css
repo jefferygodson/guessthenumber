@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.guess{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 50px;
+
+}
+.body{
+    background-color: maroon;
+    color: white;
+    padding-bottom: 414px;
+}
+.foot{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
